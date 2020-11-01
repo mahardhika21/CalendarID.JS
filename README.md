@@ -1,2 +1,2 @@
-# tanggalJs
+# CalendarID.JS
 library format tanggal indonesia
